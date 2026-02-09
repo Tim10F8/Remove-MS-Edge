@@ -14,6 +14,7 @@
 - Microsoft Photos App (Edit)
 - PowerToys File Explorer add-ons utility
 - Quicken
+- Rex Atmos for MSFS 2020
 - Roblox
 - Safing Portmaster
 - Windows Mail  
